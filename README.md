@@ -21,5 +21,5 @@ This is a simple project made more intermediate using classes and more. Check th
 
 ```bash
 python main.py
-
+```
 Tested with Python version 3.11.9
